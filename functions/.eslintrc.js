@@ -13,8 +13,6 @@ module.exports = {
   },
 
   parserOptions: {
-    // sourceType: "module",
-    // allowImportExportEverywhere: true,
-    ecmaVersion: 2022,
+    ecmaVersion: 12,
   },
 };
